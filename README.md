@@ -27,9 +27,9 @@ Folder **rpca** contains various batch and online Robust PCA algorithms.
 
   * omwrpca_cp.py: Online Moving Window Robust PCA with Change Point Detection. A novel online robust principal component analysis algorithm which can track both slowly changing and abruptly changed subspace. The algorithm is also able to automatically discover change points of the underlying low-rank subspace.
 
-Folder **simulation** contains code to reproduce simulation study of the paper Xiao, Wei, et al. "Online Robust Principal Component Analysis with Change Point Detection" arXiv (2017).
+Folder **simulation** contains code to reproduce all simulation studies of the paper Xiao, Wei, et al. "Online Robust Principal Component Analysis with Change Point Detection" arXiv (2017).
 
-Folder **.\example\survillance** contains ipython notebooks to apply the online rpca algorithms for real-world video survillance data. Before running the ipython notebooks, please first download the video data from <http://perception.i2r.a-star.edu.sg/bk_model/bk_index.html>.
+Folder **./example/survillance** contains ipython notebooks to apply the online rpca algorithms for real-world video survillance data. Before running the corresponding ipython notebooks, please first download the video data from <http://perception.i2r.a-star.edu.sg/bk_model/bk_index.html>.
 
 Citation
 ========
