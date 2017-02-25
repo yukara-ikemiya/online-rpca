@@ -33,6 +33,7 @@ Folder **example/survillance** contains ipython notebooks to apply the online rp
 
 Citation
 ========
+If you use this package in any way, please cite the following publication.
 ```
 @ARTICLE{xiao2017omwrpca,
    author = {{Xiao}, W. and {Huang}, X. and {Silva}, J. and {Emrani}, S. and {Chaudhuri}, A.},
