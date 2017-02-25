@@ -9,7 +9,7 @@ Robust PCA based on Principal Component Pursuit (**RPCA-PCP**) is the most popul
 
 > s.t. L + S = M
 
-where ||.||_* is a nuclear norm, ||.||_1 is L1-norm. 
+where ||.||_* is a nuclear norm, ||.||_1 is L1-norm. See the [paper for details](https://arxiv.org/abs/1702.05698)
 
 ### What is inside?
 Folder **rpca** contains various batch and online Robust PCA algorithms.
