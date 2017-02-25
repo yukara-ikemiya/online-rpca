@@ -33,22 +33,14 @@ Folder **simulation** contains code to reproduce all simulation studies of the p
 Folder **example/survillance** contains ipython notebooks to apply the online rpca algorithms for real-world video survillance data (separating foreground from background in the video). Before running the corresponding ipython notebooks, please first download the video data from <http://perception.i2r.a-star.edu.sg/bk_model/bk_index.html>.
 
 ### Citation
-If you use this package in any way, please cite the following publication.
+If you use this package in any way, please cite the following preprint.
 ```
-@ARTICLE{xiao2017omwrpca,
-   author = {{Xiao}, W. and {Huang}, X. and {Silva}, J. and {Emrani}, S. and {Chaudhuri}, A.},
-   title = "{Online Robust Principal Component Analysis with Change Point Detection}",
-   journal = {ArXiv e-prints},
-   archivePrefix = "arXiv",
-   eprint = {1702.05698},
-   primaryClass = "cs.LG",
-   keywords = {Computer Science - Learning, Computer Science - Computer Vision and Pattern Recognition, Statistics - Applications, Statistics - Computation, Statistics - Machine Learning},
-   year = 2017,
-   month = feb,
-   adsurl = {http://adsabs.harvard.edu/abs/2017arXiv170205698X},
-   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{xiao2017online,
+  title={Online Robust Principal Component Analysis with Change Point Detection},
+  author={Xiao, Wei and Huang, Xiaolin and Silva, Jorge and Emrani, Saba and Chaudhuri, Arin},
+  journal={arXiv preprint arXiv:1702.05698},
+  year={2017}
 }
-
 ```
 
 ### Contacts
